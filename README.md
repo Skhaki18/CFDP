@@ -6,4 +6,4 @@
                                             Toronto, Canada
                               {samir.khaki, weihan.luo}@mail.utoronto.ca}
 
-# We are preparing for other deadlines, if you want the pre-released code for CFDP, please feel free to email us! Thanks!
+## We are preparing for other deadlines, if you want the pre-released code for CFDP, please feel free to email us! Thanks!

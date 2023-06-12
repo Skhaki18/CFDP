@@ -1,4 +1,4 @@
-# CFDP: Common Frequency Domain Pruning
+# CFDP: Common Frequency Domain Pruning ([Link](https://openaccess.thecvf.com/content/CVPR2023W/ECV/html/Khaki_CFDP_Common_Frequency_Domain_Pruning_CVPRW_2023_paper.html))
 
 
                                           Samir Khaki, Weihan Luo
